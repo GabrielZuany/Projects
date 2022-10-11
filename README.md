@@ -8,4 +8,5 @@
 ------
 
 ## Python Project:
-- [Price Comparator](https://github.com/GabrielZuany/PriceComparator)
+- [Price Comparator (Main project)](https://github.com/GabrielZuany/PriceComparator)
+- [Little Projects in Python](https://github.com/GabrielZuany/Python/tree/master/Projects)
