@@ -4,7 +4,7 @@
 ## C Project:
 - [Snake Game](https://github.com/GabrielZuany/Snake)
 - [TicTacToe](https://github.com/GabrielZuany/TicTacToe)
-
+- [SpotFES - Spotify recomendation algorithm](https://github.com/GabrielZuany/SpotFES)
 ------
 
 ## Python Project:
