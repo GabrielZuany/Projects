@@ -5,6 +5,7 @@
 - [Snake Game](https://github.com/GabrielZuany/Snake)
 - [TicTacToe](https://github.com/GabrielZuany/TicTacToe)
 - [SpotFES - Spotify recomendation algorithm](https://github.com/GabrielZuany/SpotFES)
+- [NLProg - Data Mining in Newspaper News](https://github.com/GabrielZuany/NLProg-TP_II)
 ------
 
 ## Python Project:
