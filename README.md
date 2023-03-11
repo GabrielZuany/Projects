@@ -9,8 +9,8 @@
 ------
 
 ## Python Project:
-- [Price Comparator (Main project)](https://github.com/GabrielZuany/PriceComparator)
-- [Movie Rating WebScraping (spiders)](https://github.com/GabrielZuany/Python/tree/master/Projects/MovieRating_WebScraping)
+- [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
+- [Movie Rating WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/MovieRating_WebScraping)
 - [Personal Registration Schedule](https://github.com/GabrielZuany/Python/tree/master/Projects/Personal_Registration_Schedule)
-- [Currency Converter WebScraping (spiders)](https://github.com/GabrielZuany/Python/tree/master/Projects/CurrencyConverter_WebScraping)
+- [Currency Converter WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/CurrencyConverter_WebScraping)
 - [YouTube Downloader](https://github.com/GabrielZuany/Python/tree/master/Projects/YouTubeDownloader)
