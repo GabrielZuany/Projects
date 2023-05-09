@@ -9,7 +9,7 @@
 ------
 
 ## Python Project:
-- [Login Page with Streamlit](https://github.com/GabrielZuany/Streamlit-Login)
+- [Login Page with Streamlit](https://github.com/GabrielZuany/Python/Streamlit-Login)
 - [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
 - [Movie Rating WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/MovieRating_WebScraping)
 - [Personal Registration Schedule](https://github.com/GabrielZuany/Python/tree/master/Projects/Personal_Registration_Schedule)
