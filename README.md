@@ -12,6 +12,5 @@
 - [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
 - [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
 - [Movie Rating WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/MovieRating_WebScraping)
-- [Personal Registration Schedule](https://github.com/GabrielZuany/Python/tree/master/Projects/Personal_Registration_Schedule)
 - [Currency Converter WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/CurrencyConverter_WebScraping)
 - [YouTube Downloader](https://github.com/GabrielZuany/Python/tree/master/Projects/YouTubeDownloader)
