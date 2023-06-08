@@ -6,6 +6,7 @@
 - [TicTacToe](https://github.com/GabrielZuany/TicTacToe)
 - [SpotFES - Spotify recomendation algorithm](https://github.com/GabrielZuany/SpotFES)
 - [NLProg - Data Mining in Newspaper News](https://github.com/GabrielZuany/NLProg-TP_II)
+- [2D Array Manipulation with DataStructures and Linear Algebra](https://github.com/GabrielZuany/Bidimensional-Array-Manipulation)
 ------
 
 ## Python Project:
