@@ -10,9 +10,9 @@
 ------
 
 ## Python Project:
-- [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)
-- [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
-- [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
+- [YouTube Downloader](https://github.com/GabrielZuany/Python/tree/master/Projects/YouTubeDownloader)
 - [Movie Rating WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/MovieRating_WebScraping)
 - [Currency Converter WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/CurrencyConverter_WebScraping)
-- [YouTube Downloader](https://github.com/GabrielZuany/Python/tree/master/Projects/YouTubeDownloader)
+- [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
+- [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
+- [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)
