@@ -10,6 +10,7 @@
 ------
 
 ## Python Project:
+- [Logging Sender to Elasticsearch](https://github.com/GabrielZuany/ElasticSearchLoggs)
 - [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)
 - [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
 - [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
