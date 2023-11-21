@@ -1,7 +1,7 @@
-# Project Links
+# Projects Links
 ------
 
-## C Project:
+## C Projects:
 - [Snake Game](https://github.com/GabrielZuany/Snake)
 - [TicTacToe](https://github.com/GabrielZuany/TicTacToe)
 - [SpotFES - Spotify recomendation algorithm](https://github.com/GabrielZuany/SpotFES)
@@ -9,7 +9,7 @@
 - [2D Array Manipulation with DataStructures and Linear Algebra](https://github.com/GabrielZuany/Bidimensional-Array-Manipulation)
 ------
 
-## Python Project:
+## Python Projects:
 - [Log Sender to Elasticsearch](https://github.com/GabrielZuany/ElasticSearchLogs)
 - [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)
 - [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
