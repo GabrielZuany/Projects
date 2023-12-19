@@ -2,11 +2,15 @@
 ------
 
 ## C Projects:
-- [Snake Game](https://github.com/GabrielZuany/Snake)
-- [TicTacToe](https://github.com/GabrielZuany/TicTacToe)
-- [SpotFES - Spotify recomendation algorithm](https://github.com/GabrielZuany/SpotFES)
-- [NLProg - Data Mining in Newspaper News](https://github.com/GabrielZuany/NLProg-TP_II)
+- [Search Engine](https://github.com/GabrielZuany/SearchEngine)
+- [Round Trip Time using Dijkstra](https://github.com/GabrielZuany/Round-Trip-Time-Dijkstra)
+- [Travelling Salesman Problem (TSP)](https://github.com/GabrielZuany/Travelling-Salesman-Problem)
 - [2D Array Manipulation with DataStructures and Linear Algebra](https://github.com/GabrielZuany/Bidimensional-Array-Manipulation)
+- [NLProg - Data Mining in Newspaper News](https://github.com/GabrielZuany/NLProg-TP_II)
+- [SpotFES - Spotify recomendation algorithm](https://github.com/GabrielZuany/SpotFES)
+- [Snake Game](https://github.com/GabrielZuany/Snake)
+
+
 ------
 
 ## Python Projects:
