@@ -14,6 +14,7 @@
 ------
 
 ## Python Projects:
+- [Sensors Data Handler](https://github.com/GabrielZuany/SensorsDataHandler)
 - [Log Sender to Elasticsearch](https://github.com/GabrielZuany/ElasticSearchLogs)
 - [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)
 - [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
