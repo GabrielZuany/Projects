@@ -1,4 +1,22 @@
 # Projects Links
+
+------
+
+## Data Engineering
+- [Sensors Data Handler using Kafka and Python](https://github.com/GabrielZuany/SensorsDataHandler)
+
+------
+
+## Python Projects:
+- [Sensors Data Handler using Kafka and Python](https://github.com/GabrielZuany/SensorsDataHandler)
+- [Log Sender to Elasticsearch](https://github.com/GabrielZuany/ElasticSearchLogs)
+- [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)
+- [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
+- [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
+- [YouTube Downloader](https://github.com/GabrielZuany/Python/tree/master/Projects/YouTubeDownloader)
+- [Movie Rating WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/MovieRating_WebScraping)
+- [Currency Converter WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/CurrencyConverter_WebScraping)
+- 
 ------
 
 ## C Projects:
@@ -9,16 +27,3 @@
 - [NLProg - Data Mining in Newspaper News](https://github.com/GabrielZuany/NLProg-TP_II)
 - [SpotFES - Spotify recomendation algorithm](https://github.com/GabrielZuany/SpotFES)
 - [Snake Game](https://github.com/GabrielZuany/Snake)
-
-
-------
-
-## Python Projects:
-- [Sensors Data Handler](https://github.com/GabrielZuany/SensorsDataHandler)
-- [Log Sender to Elasticsearch](https://github.com/GabrielZuany/ElasticSearchLogs)
-- [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)
-- [Login Page with Streamlit](https://github.com/GabrielZuany/Python/tree/master/Strealmit_Login)
-- [Price Comparator (automation project)](https://github.com/GabrielZuany/PriceComparator)
-- [YouTube Downloader](https://github.com/GabrielZuany/Python/tree/master/Projects/YouTubeDownloader)
-- [Movie Rating WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/MovieRating_WebScraping)
-- [Currency Converter WebScraping (automation project)](https://github.com/GabrielZuany/Python/tree/master/Projects/CurrencyConverter_WebScraping)
